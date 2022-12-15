@@ -23,7 +23,7 @@ if($args.Count -eq 0) {
 
 
 
-$TargetLanguage = "fr"
+$TargetLanguage = "zh"
 
 
 # Read the existing file properties
